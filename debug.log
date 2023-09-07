@@ -1,0 +1,8 @@
+[1011/185646.676:ERROR:settings.cc(430)] Settings version is not 5
+[1011/190646.894:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/010832.123:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/171206.875:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aline\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\104f0617-55b6-4a9d-b7ab-4fc1b183a825: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/171206.919:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aline\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\470064be-ee77-4c93-b226-20a1feb6b515: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/171206.924:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\aline\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\d040530a-822e-44a3-91af-42bb2429943c: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/171206.924:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1018/221059.357:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
